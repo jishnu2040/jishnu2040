@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on [Sheen](https://github.com/jishnu2040/Sheen)
 
-- 🌱 I’m currently learning **Currently diving into Docker and System Design**
+- 🌱 Currently diving into Docker and System Design**
 
 - 💬 Ask me about **Django, React , PWA**
 
