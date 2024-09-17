@@ -23,3 +23,5 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jishnu2040&show_icons=true&locale=en&layout=compact" alt="jishnu2040" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jishnu2040&" alt="jishnu2040" /></p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jishnu2040&label=Profile%20views&color=0e75b6&style=flat" alt="jishnu2040" /> </p>
